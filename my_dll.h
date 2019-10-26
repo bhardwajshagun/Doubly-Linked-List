@@ -1,14 +1,3 @@
-// =================== Support Code =================
-// Doubly Linked List ( DLL ).
-//
-//
-//
-// - Implement each of the functions to create a working DLL.
-// - Do not change any of the function declarations
-//   - (i.e. dll_t* create_dll() should not have additional arguments)
-// - You should not have any 'printf' statements in your DLL functions. 
-//   - (You may consider using these printf statements to debug, but they should be removed from your final version)
-// ==================================================
 #ifndef MYDLL_H
 #define MYDLL_H
 
